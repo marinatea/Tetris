@@ -1,1 +1,1 @@
-[https://marinatea.github.io/Tetris/]
+[https://marinatea.github.io/Tetris_js/]
